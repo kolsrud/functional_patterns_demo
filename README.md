@@ -6,4 +6,4 @@ downloaded from the following site: https://docs.haskellstack.org/
 To build and run:
 
     stack build
-    stack exec HSDK
+    stack exec FunctionalPatterns
